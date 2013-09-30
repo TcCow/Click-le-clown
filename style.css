@@ -73,5 +73,5 @@
 	position: absolute;
 
 	background-image: url(pepito.png);
-	opacity: 0;
+	display: none;
 }
